@@ -322,7 +322,7 @@ body{
     padding: 0.5em;
   }
 
-  .mobile-nav-toggle .icon-close {
+  .mobile-nav-toggle .icon-close{
     display: none;
   }
 }
