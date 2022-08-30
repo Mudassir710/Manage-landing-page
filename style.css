@@ -213,7 +213,7 @@ p[data-width="wide"] {
 @media (max-width: 50em) {
   .primary-navigation {
     display: none;
-
+    z-index: 1;
     position: fixed;
     padding: var(--size-700);
     inset: 7rem var(--size-400) auto;
